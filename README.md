@@ -90,3 +90,6 @@ Mude `cv2.VideoCapture(0)` pra `cv2.VideoCapture(1)` nos arquivos
 **`py -3.12` nao encontrado**
 Instala o Python 3.12 em https://www.python.org/downloads/release/python-3128/
 e marca "Add python.exe to PATH" no instalador.
+
+## Aluno
+**RM558887** Enzo Mikael Sanches Baptista Paes Fontes
